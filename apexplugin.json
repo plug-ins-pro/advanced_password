@@ -1,6 +1,6 @@
 {
    "name": "UC - Advanced Password",
-   "version": "23.1",
+   "version": "24.1",
    "description": "Free Plug-in under MIT License, which means it is free for everyone to use, no matter if for commercial or private use. An advanced password item with multiple features, such as password-peek, strength bar, and many more. The UC - Advanced Password item plug-in offers a visual, highly customizable alternative to the regular password input item. This plug-in is the ideal solution to enforce your application's password requirements like length, case, character mix, special characters, etc. It really shines for password confirmation in signup or password reset forms.",
    "keywords": [
       "password",
@@ -48,7 +48,7 @@
          "plugin": {
             "internalName": "UNITEDCODES_ADVANCED_PASSWORD",
             "type": "item",
-            "demo" : "https://www.united-codes.com/ords/pluginspro_web/r/pluginspro_free/",
+            "demo": "https://www.united-codes.com/ords/pluginspro_web/r/pluginspro_free/",
             "previewImage": "https://unitedcodes.s3.eu-west-1.amazonaws.com/plugin/images/UC_ADVANCED_PW.gif"
          }
       }
